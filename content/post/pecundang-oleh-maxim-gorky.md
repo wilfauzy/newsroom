@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Buku
 date: 2020-01-07T08:52:15Z
-image: /img/dfacd-pecundang.jpg
+image: dfacd-pecundang.jpg
 title: Pecundang Oleh Maxim Gorky
 url: /pecundang-oleh-maxim-gorky/
 ---

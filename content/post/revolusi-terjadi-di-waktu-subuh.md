@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Buku
 date: 2016-03-16T22:53:00Z
-image: /img/42ce5-revolusi-subuh.jpg
+image: 42ce5-revolusi-subuh.jpg
 tags:
 - buku
 title: Revolusi Terjadi di Waktu Subuh

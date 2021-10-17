@@ -25,6 +25,8 @@ paginate = 6
  disqusShortname = "wildanfauzy"
 
 # ids used below are not valid. Replace with valid ones
+[permalinks]
+post = "/:slug/"
 [params]
   locale = "id_ID"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
