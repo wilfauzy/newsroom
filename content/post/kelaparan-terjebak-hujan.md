@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-03-28T10:00:00Z
-image = "/img/pexels-cátia-matos-1072179_arnckz.jpg"
+image = "pexels-cátia-matos-1072179_arnckz.jpg"
 tags = ["note"]
 title = "Kelaparan Terjebak Hujan"
 +++

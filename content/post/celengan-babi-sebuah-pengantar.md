@@ -3,8 +3,7 @@ author: WilFauzy
 tags:
 - Note
 date: 2020-08-18T20:04:07Z
-guid: https://wildanfauzy.com/?p=7079
-image: /wp-content/uploads/2020/08/menulis-novel.jpg
+image: menulis-novel.jpg
 header-mask: 0.4
 id: 7079
 snax_approval_data:

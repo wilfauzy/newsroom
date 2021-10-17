@@ -3,14 +3,7 @@ author: WilFauzy
 tags:
 - WOW
 date: 2020-08-10T15:58:44Z
-guid: https://wildanfauzy.com/?p=6841
-image: /wp-content/uploads/2020/08/pexels-min-an-749102.jpg
-header-mask: 0.4
-id: 6841
-snax_approval_data:
-- 2020-08-10 22:59:33 +07:00
-snax_approved_by:
-- "1"
+image: pexels-min-an-749102.jpg
 title: Es Terus
 url: /es-terus/
 ---

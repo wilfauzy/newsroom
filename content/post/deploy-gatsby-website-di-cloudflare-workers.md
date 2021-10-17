@@ -2,7 +2,7 @@
 author: pemuda malkis
 catalog: true
 date: 2021-01-31T00:35:00Z
-image: /img/gatsby-website.png
+image: gatsby-website.png
 header-mask: "0.4"
 tags:
 - gatsby

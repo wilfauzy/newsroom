@@ -4,7 +4,7 @@ tags:
 - Share
 date: 2020-08-29T18:24:05Z
 guid: https://wildanfauzy.com/?p=7614
-image: /wp-content/uploads/2020/08/pexels-ketut-subiyanto-4349727.jpg
+image: pexels-ketut-subiyanto-4349727.jpg
 header-mask: 0.4
 id: 7614
 slim_seo:

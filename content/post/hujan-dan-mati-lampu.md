@@ -4,7 +4,7 @@ tags:
 - Note
 date: 2020-10-22T16:06:23Z
 guid: https://wildanfauzy.com/hujan-dan-mati-lampu/
-image: /wp-content/uploads/2020/10/hujan-mati-lampu.jpg
+image: hujan-mati-lampu.jpg
 header-mask: 0.4
 id: 8454
 title: Hujan dan Mati Lampu

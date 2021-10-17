@@ -3,14 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2020-01-02T13:33:26Z
-guid: https://wildanfauzy.com/gimana-apanya-kenapa/
-id: 1681
-nb_of_words:
-- "113"
-neve_meta_enable_content_width:
-- "off"
 title: Gimana apanya kenapa?
-url: /gimana-apanya-kenapa/
 ---
 
 <figure class="wp-block-image size-large"><img src="https://wildanfauzyart.files.wordpress.com/2020/04/ad5a7-black-cassette-tape-on-top-of-red-and-yellow-surface-1626481-1.jpg?w=768&#038;h=682" alt="" class="wp-image-1680" data-recalc-dims="1" /><figcaption>Photo by&nbsp;**[Stas Knop&nbsp;](https://www.pexels.com/@stasknop?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**from&nbsp;**[Pexels](https://www.pexels.com/photo/black-cassette-tape-on-top-of-red-and-yellow-surface-1626481/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**  

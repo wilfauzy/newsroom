@@ -4,7 +4,7 @@ date: 2020-06-12T19:27:28Z
 tags:
 - cerpen
 title: Melihat Senyuman Membuat Lelaki Itu Menangis
-image: /img/21d5a-pexels-photo-207129.jpeg
+image: 21d5a-pexels-photo-207129.jpeg
 url: /melihat-senyuman-membuat-lelaki-itu-menangis/
 ---
 

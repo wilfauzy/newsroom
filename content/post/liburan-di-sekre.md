@@ -4,7 +4,7 @@ tags:
 - Note
 title: Liburan di Sekre
 date: 2015-06-21T16:08:00Z
-image: /wp-content/2015/06/781bd-architecture-building-exterior-1029599.jpg
+image: 781bd-architecture-building-exterior-1029599.jpg
 url: /liburan-di-sekre/
 ---
 

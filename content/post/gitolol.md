@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-08-07T12:10:00Z
-image = "/img/20210524_180217.jpg"
+image = "20210524_180217.jpg"
 tags = ["cerpen"]
 title = "Gitolol Otaknya Konslet"
 

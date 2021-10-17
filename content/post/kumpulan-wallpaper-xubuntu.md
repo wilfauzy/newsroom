@@ -1,7 +1,7 @@
 +++
 author = "pemuda malkis"
 date = 2021-03-13T22:00:00Z
-image = "/img/xubuntu-bionic.png"
+image = "xubuntu-bionic.png"
 tags = ["xubuntu ", "linux"]
 title = "Kumpulan Wallpaper Xubuntu "
 
@@ -12,17 +12,17 @@ Xubuntu adalah sebuah distribusi Linux dan varian resmi yang berbasiskan Ubuntu 
 
 > wallpaper ubuntu
 
-![](/img/xubuntu-zesty.png)
+![](xubuntu-zesty.png)
 
-![](/img/xubuntu-yakkety.png)
+![](xubuntu-yakkety.png)
 
-![](/img/xubuntu-xenial.png)
+![](xubuntu-xenial.png)
 
-![](/img/xubuntu-wallpaper.png)
+![](xubuntu-wallpaper.png)
 
-![](/img/xubuntu-development.png)
+![](xubuntu-development.png)
 
-![](/img/xubuntu-artful.png)
+![](xubuntu-artful.png)
 
 Xubuntu ditujukan untuk pengguna yang menggunakan komputer dengan kinerja rendah atau mereka yang mencari lingkungan desktop yang lebih efisien pada komputer dengan kinerja tinggi.
 

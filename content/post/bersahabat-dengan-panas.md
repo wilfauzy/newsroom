@@ -4,7 +4,7 @@ tags:
 - WOW
 date: 2020-08-27T14:03:56Z
 guid: https://wildanfauzy.com/?p=7278
-image: /wp-content/uploads/2020/08/cuaca-panas.jpg
+image: cuaca-panas.jpg
 header-mask: 0.4
 id: 7278
 title: Bersahabat dengan Panas

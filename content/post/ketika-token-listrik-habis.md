@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-06-30T19:00:00Z
-image = "/img/20210509_122420.jpg"
+image = "20210509_122420.jpg"
 tags = ["note"]
 title = "Ketika Token Listrik Habis"
 

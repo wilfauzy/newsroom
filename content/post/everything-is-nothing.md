@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2020-05-30T20:52:33.000+00:00
-image: "/img/0f15c-human-hands-illustrations-3354675-scaled-1.jpg"
+image: "0f15c-human-hands-illustrations-3354675-scaled-1.jpg"
 title: Everything is Nothing until Nothing Became Everything
 url: "/everything-is-nothing/"
 

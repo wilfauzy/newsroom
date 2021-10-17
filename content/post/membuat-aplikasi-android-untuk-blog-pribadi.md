@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2020-06-13T10:45:50Z
-image: /wp-content/uploads/2020/08/pexels-freestocksorg-34239.jpg
+image: pexels-freestocksorg-34239.jpg
 title: Membuat Aplikasi Android Untuk Blog Pribadi
 url: /membuat-aplikasi-android-untuk-blog-pribadi/
 

@@ -2,7 +2,7 @@
 author: Redaksi
 date: 2020-08-03T19:26:45Z
 guid: https://wildanfauzy.com/?p=6203
-image: /wp-content/uploads/2020/06/pexels-photo-272887.jpeg
+image: pexels-photo-272887.jpeg
 tags:
 - kopi keliling
 - kopling

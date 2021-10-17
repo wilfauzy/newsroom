@@ -3,30 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2013-07-22T08:05:00Z
-guid: https://wildanfauzy.com/index.php/2013/07/22/cosane-go-to-guci/
-id: 94
-nb_of_words:
-- "615"
-post_views_count:
-- "1"
-template_meta:
-- "no"
 title: Cosane go to Guci
-url: /cosane-go-to-guci/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
 ---
 
 apa kabar kalian? bertenu lagi, kali ini gue mau berbagi **pengalaman** di daerah **wisata****guci** kabupaten **tegal**, bersama anak anak **cosane** singkatan dari **community science one&nbsp;**,nih acara emang sengaja di adain untuk perpisahan kelas, ibarat acara perpisahan terakhir di **kelas sebelas**.

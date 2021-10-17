@@ -2,7 +2,7 @@
 author: WilFauzy
 catalog: false
 date: 2020-12-26T19:05:00Z
-image: /img/theme9_v273a9_y3uh3k.jpg
+image: theme9_v273a9_y3uh3k.jpg
 header-mask: "0.4"
 tags:
 - cerpen

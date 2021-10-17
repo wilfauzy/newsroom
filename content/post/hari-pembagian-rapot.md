@@ -3,14 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-06-22T01:24:00Z
-guid: https://wildanfauzy.com/index.php/2013/06/22/hari-pembagian-rapot/
-id: 98
-nb_of_words:
-- "257"
-post_views_count:
-- "1"
 title: Hari Pembagian Rapot
-url: /hari-pembagian-rapot/
 ---
 
 <div dir="ltr" style="text-align:left;">

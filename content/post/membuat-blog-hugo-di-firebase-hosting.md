@@ -1,7 +1,7 @@
 +++
 author = "pemuda malkis"
 date = 2021-03-24T00:00:00Z
-image = "/img/firebase-hosting.jpeg"
+image = "firebase-hosting.jpeg"
 tags = ["jamstack"]
 title = "Membuat Blog Hugo di Firebase Hosting"
 

@@ -1,7 +1,7 @@
 ---
 author: smolcomrade
 date: 2020-08-07T02:21:32Z
-image: /wp-content/uploads/2020/08/rsz_pexels-cdc-3992931-scaled.jpg
+image: rsz_pexels-cdc-3992931-scaled.jpg
 tags:
 - cerpen
 title: Hari Imunisasi

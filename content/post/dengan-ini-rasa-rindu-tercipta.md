@@ -3,28 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-12-30T14:45:00Z
-guid: https://wildanfauzy.com/index.php/2015/12/30/dengan-ini-rasa-rindu-tercipta/
-id: 2192
-nb_of_words:
-- "256"
-template_meta:
-- "no"
 title: Dengan ini Rasa Rindu Tercipta
-url: /dengan-ini-rasa-rindu-tercipta/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
 ---
 
 <img loading="lazy" class="alignnone wp-image-702" src="https://wildanfauzyart.files.wordpress.com/2020/04/40dc9-9-architecture-black-and-white-626158.jpg?w=1024&#038;h=682&#038;resize=768%2C512" alt="" width="768" height="512"  data-recalc-dims="1" />  

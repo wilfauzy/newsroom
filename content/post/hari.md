@@ -3,10 +3,7 @@ author: WilFauzy
 tags:
 - Note
 date: 2020-10-15T14:37:45Z
-guid: https://wildanfauzy.com/?p=8423
-image: /wp-content/uploads/2020/10/pexels-sinitta-leunen-3791007.jpg
-header-mask: 0.4
-id: 8423
+image: pexels-sinitta-leunen-3791007.jpg
 title: 40 Hari
 url: /40-hari/
 ---

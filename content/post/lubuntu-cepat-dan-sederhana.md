@@ -2,7 +2,7 @@
 author: Linux Mania
 date: 2020-10-03T18:03:40Z
 guid: https://wildanfauzy.com/?p=8357
-image: /wp-content/uploads/2020/10/lubuntu.jpg
+image: lubuntu.jpg
 header-mask: 0.4
 id: 8357
 tags:

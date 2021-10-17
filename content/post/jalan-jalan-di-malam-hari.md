@@ -4,7 +4,7 @@ tags:
 - Cerita Pendek
 date: 2020-09-15T23:34:48Z
 guid: https://wildanfauzy.com/?p=8074
-image: /wp-content/uploads/2020/09/pexels-ivan-oboleninov-935777.jpg
+image: pexels-ivan-oboleninov-935777.jpg
 header-mask: 0.4
 id: 8074
 title: Jalan-Jalan di Malam Hari

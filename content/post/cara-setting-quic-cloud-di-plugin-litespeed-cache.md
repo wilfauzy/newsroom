@@ -2,7 +2,7 @@
 author: pemuda malkis
 catalog: true
 date: 2021-02-08T22:30:00Z
-image: /img/quicker.jpg
+image: quicker.jpg
 header-mask: "0.4"
 tags:
 - litespeed

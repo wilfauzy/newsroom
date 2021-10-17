@@ -2,7 +2,7 @@
 author: Redaksi
 categories: []
 date: 2019-10-31T01:01:25.000+00:00
-image: /img/babi.jpeg
+image: babi.jpeg
 tags:
 - cerpen
 title: Cerpen Kandang Babi

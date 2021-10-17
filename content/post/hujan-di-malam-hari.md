@@ -2,7 +2,7 @@
 author: WIlFauzy
 catalog: false
 date: 2020-01-19T12:00:00Z
-image: /img/hujan-di-malam-hari.jpeg
+image: hujan-di-malam-hari.jpeg
 header-mask: "0.4"
 tags:
 - cerpen

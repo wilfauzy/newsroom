@@ -4,7 +4,7 @@ tags:
 - cerpen
 date: 2020-08-12T02:06:00Z
 guid: https://wildanfauzy.com/?p=6890
-image: /wp-content/uploads/2020/08/burung-bernyanyi-di-pohon-jambu.jpg
+image: burung-bernyanyi-di-pohon-jambu.jpg
 title: Buah Jambu Jatuh Sedangkan Burung Bernyanyi Dengan Suara Sumbang
 url: /buah-jambu-jatuh-sedangkan-burung-bernyanyi-dengan-suara-sumbang/
 wpp_send_notification_for_new_post:

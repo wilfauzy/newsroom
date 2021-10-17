@@ -1,7 +1,7 @@
 +++
 author = "pemuda malkis "
 date = 2021-03-17T19:00:00Z
-image = "/img/cloudflare-pages.png"
+image = "cloudflare-pages.png"
 tags = ["jamstack", "cloudflare"]
 title = "Hosting Blog di Cloudflare"
 

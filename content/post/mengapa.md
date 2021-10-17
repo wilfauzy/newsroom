@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-06-23T17:25:00Z
-image = "/img/404.gif"
+image = "404.gif"
 tags = ["note"]
 title = "Mengapa"
 
@@ -12,13 +12,13 @@ Kerjaan main gapleh sampe subuh lalu bangun ketika matahari sudah diatas kepala,
 
 Tapi kabar baiknya skripsit sudah dapat tanda tangan, bulan ini juga niatnya mau sidang namun lupa nilai kurang dua lagi. 
 
-![](/img/20210613_233131.jpg)
+![](20210613_233131.jpg)
 
 Kembali lagi ke rutinitas pada hari-hari sebelumnya, apalagi kota ini sudah memasuki zona merah akibat melonjaknya virus korongna, makin mager saja di kosan. 
 
 Tanpa disadari di malam yang sunyi, ketika layar televisi yang menonton manusia, iseng membuka blog, dan rasanya ingin mengetik satu atau dua kata yang tidak bermakna ini. 
 
-![](/img/20210614_101037.jpg)
+![](20210614_101037.jpg)
 
 Tapi ada hal yang menarik perhatian mata ini, yaitu buku lumayan tebal dengan gambar ilustrasi yang abstrak, sebuah buku karangan albert camus, sepertinya kepunyaan adik kelas. 
 

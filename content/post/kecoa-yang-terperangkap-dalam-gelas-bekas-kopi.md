@@ -1,7 +1,7 @@
 ---
 author: Redaksi
 date: 2020-01-05T09:53:12Z
-image: /img/2b492-pexels-photo-1266808.jpeg
+image: 2b492-pexels-photo-1266808.jpeg
 tags:
 - cerpen
 - kopi

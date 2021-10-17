@@ -2,9 +2,7 @@
 author: Linux Mania
 date: 2020-10-23T13:45:49Z
 guid: https://wildanfauzy.com/?p=8542
-image: /wp-content/uploads/2020/10/imagic-memcached-litepspeed.png
-header-mask: 0.4
-id: 8542
+image: imagic-memcached-litepspeed.png
 tags:
 - imagick
 - memcached

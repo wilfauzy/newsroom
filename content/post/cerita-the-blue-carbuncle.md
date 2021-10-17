@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2013-06-08T04:59:00.000+00:00
-image: "/img/cerita-the-blue-carbuncle.jpeg"
+image: "cerita-the-blue-carbuncle.jpeg"
 title: Cerita the Blue Carbuncle
 url: "/cerita-the-blue-carbuncle/"
 

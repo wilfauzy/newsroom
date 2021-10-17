@@ -1,7 +1,7 @@
 ---
 author: Redaksi
 date: 2020-07-03T17:35:30Z
-image: /wp-content/uploads/2020/07/pexels-photo-349727.jpeg
+image: pexels-photo-349727.jpeg
 tags:
 - cerpen
 title: Memancing Matahari di Waktu Sore

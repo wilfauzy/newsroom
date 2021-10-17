@@ -2,7 +2,7 @@
 author: WIlFauzy
 catalog: true
 date: 2021-01-24T09:49:00Z
-image: /img/img_20210106_232233.jpg
+image: img_20210106_232233.jpg
 header-mask: "0.4"
 tags:
 - kopi

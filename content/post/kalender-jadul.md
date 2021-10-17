@@ -2,7 +2,7 @@
 author: Redaksi
 catalog: false
 date: 2021-01-20T14:13:00Z
-image: /img/e9e36060883469-5a5cccc987050-ca461dc-0ef47b266560a8caef5e130646fc033a.jpg
+image: e9e36060883469-5a5cccc987050-ca461dc-0ef47b266560a8caef5e130646fc033a.jpg
 header-mask: "0.4"
 tags:
 - cerpen

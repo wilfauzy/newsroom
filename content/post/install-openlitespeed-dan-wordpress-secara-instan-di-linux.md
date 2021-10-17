@@ -2,9 +2,7 @@
 author: Linux Mania
 date: 2020-10-20T15:03:19.000+00:00
 guid: https://wildanfauzy.com/?p=8437
-image: "/wp-content/uploads/2020/10/wordpress-on-openlitespeed.jpg"
-header-mask: "0.4"
-id: "8437"
+image: "wordpress-on-openlitespeed.jpg"
 tags:
 - openlitespeed
 - ubuntu

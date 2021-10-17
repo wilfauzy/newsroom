@@ -3,10 +3,6 @@ author: Redaksi
 tags:
 - Note
 date: 2019-12-27T19:18:02Z
-guid: https://wildanfauzy.com/?p=1547
-id: 1547
-nb_of_words:
-- "330"
 title: Hujan dan Suara Kodok
 url: /hujan-dan-suara-kodok/
 ---

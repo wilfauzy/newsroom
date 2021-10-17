@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-09-29T01:00:00Z
-image = "/img/paket-graduation.jpeg"
+image = "paket-graduation.jpeg"
 tags = ["note"]
 title = "Akhirnya Lulus Setelah Tujuh Tahun"
 

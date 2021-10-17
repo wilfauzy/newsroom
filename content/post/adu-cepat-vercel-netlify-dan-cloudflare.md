@@ -1,7 +1,7 @@
 +++
 author = "pemuda malkis"
 date = 2021-03-19T06:53:00Z
-image = "/img/pexels-negative-space-169573_lyyqxo.jpg"
+image = "pexels-negative-space-169573_lyyqxo.jpg"
 tags = ["jamstack "]
 title = "Adu Cepat Vercel Netlify dan Cloudflare "
 

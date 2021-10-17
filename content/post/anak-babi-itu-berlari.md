@@ -5,7 +5,7 @@ tags:
 - Internet
 date: 2020-07-24T22:48:57Z
 guid: https://wildanfauzy.com/anak-babi-itu-berlari/
-image: /img/babi.jpeg
+image: babi.jpeg
 title: Anak Babi Itu Berlari
 url: /anak-babi-itu-berlari/
 ---

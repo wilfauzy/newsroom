@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - cerpen
 date: 2019-04-24T20:27:00Z
-image: /img/12376-architecture-art-artwork-206784.jpg
+image: 12376-architecture-art-artwork-206784.jpg
 title: Berak Lancar Kunci Kebahagiaan
 url: /berak-lancar-kunci-kebahagiaan/
 ---

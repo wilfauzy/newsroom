@@ -2,7 +2,7 @@
 author: pemuda malkis
 catalog: true
 date: 2020-12-24T03:32:00Z
-image: /img/cloudflare-pages.png
+image: cloudflare-pages.png
 header-mask: "0.4"
 tags:
 - cloudflare

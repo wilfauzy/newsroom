@@ -1,20 +1,10 @@
 ---
 author: pemuda malkis
 date: 2020-08-16T16:14:52Z
-guid: https://wildanfauzy.com/?p=6990
-image: /wp-content/uploads/2020/08/darkmode.jpg
-header-mask: 0.4
-id: 6990
-snax_approval_data:
-- 2020-08-16 23:25:30 +07:00
-snax_approved_by:
-- "1"
+image: darkmode.jpg
 tags:
 - wordpress
 title: Generasi Dark Mode Manusia Setengah Batman
-url: /generasi-dark-mode-manusia-setengah-batman/
-wpp_send_notification_for_new_post:
-- "1"
 ---
 
 Semenjak bertebaran aplikasi yang menawarkan mode gelap atau dark mode jadi lebih nyamam menggunakan fitur tersebut, apalagi ketika begadang, sangat membantu agar mata tidak cepat capek melihat bacotan orang di dunia maya.

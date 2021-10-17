@@ -1,7 +1,7 @@
 ---
 author: Redaksi
 date: 2020-06-15T19:00:00Z
-image: /img/3aa26-pexels-photo-1560424.jpeg
+image: 3aa26-pexels-photo-1560424.jpeg
 tags:
 - cerpen
 title: Kenyataan Yang Menjadi Mimpi Di Siang Bolong

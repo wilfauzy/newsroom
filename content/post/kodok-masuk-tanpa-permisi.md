@@ -4,7 +4,7 @@ tags:
 - Cerita Pendek
 date: 2020-10-01T23:04:46Z
 guid: https://wildanfauzy.com/kodok-masuk-tanpa-permisi/
-image: /wp-content/uploads/2020/10/hujan-dan-jendela.jpg
+image: hujan-dan-jendela.jpg
 header-mask: 0.4
 id: 8339
 title: Kodok Masuk Tanpa Permisi

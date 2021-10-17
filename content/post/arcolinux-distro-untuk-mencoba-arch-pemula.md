@@ -2,7 +2,7 @@
 author: Linux Mania
 catalog: true
 date: 2021-01-28T23:30:00Z
-image: /img/terminal.png
+image: terminal.png
 header-mask: "0.4"
 tags:
 - arcolinux

@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2012-03-24T15:35:00Z
-image: /wp-content/uploads/2012/03/24839-blur-close-up-environment-401213.jpg
+image: 24839-blur-close-up-environment-401213.jpg
 title: Malam Minggu
 url: /malam-minggu/
 ---

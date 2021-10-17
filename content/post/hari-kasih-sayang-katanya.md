@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-02-13T17:25:00Z
-image = "/images/cover_polenord.jpg"
+image = "cover_polenord.jpg"
 tags = ["note"]
 title = "Hari Kasih Sayang Katanya "
 

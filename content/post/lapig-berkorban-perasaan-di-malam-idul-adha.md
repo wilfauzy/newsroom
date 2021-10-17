@@ -1,7 +1,7 @@
 ---
 author: WilFauzy
 date: 2020-07-30T20:15:10Z
-image: /wp-content/uploads/2020/07/sore-shubuh-matahari-.jpg
+image: sore-shubuh-matahari-.jpg
 tags:
 - cerpen
 title: Lapig Berkorban Perasaan di Malam Idul Adha

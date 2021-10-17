@@ -4,7 +4,7 @@ tags:
 - NSFW
 date: 2020-08-13T11:30:14Z
 guid: https://wildanfauzy.com/?p=6907
-image: /wp-content/uploads/2020/08/bulu-transparan.jpg
+image: bulu-transparan.jpg
 header-mask: 0.4
 id: 6907
 snax_approval_data:

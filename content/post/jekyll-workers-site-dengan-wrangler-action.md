@@ -2,7 +2,7 @@
 author: pemuda malkis
 catalog: true
 date: 2021-02-05T14:00:00Z
-image: /img/workers-social.png
+image: workers-social.png
 header-mask: "0.4"
 tags:
 - jekyll

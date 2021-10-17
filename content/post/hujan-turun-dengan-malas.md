@@ -1,7 +1,7 @@
 +++
 author = "Redaksi"
 date = 2021-02-15T10:00:00Z
-image = "/img/unsplash-image-3.jpg"
+image = "unsplash-image-3.jpg"
 tags = ["note"]
 title = "Hujan Turun Dengan Malas"
 
