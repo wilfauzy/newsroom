@@ -1,7 +1,7 @@
 ---
 author: WilFauzy 
 date: 2021-04-29T01:10:00Z
-image: /img/pantai.jpg
+image: pantai.jpg
 tags:
 - cerpen
 title: "Penghujung Bulan"
